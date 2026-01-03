@@ -3,58 +3,69 @@
   <img src="https://github.com/d4n1-KC/d4n1-KC/blob/main/assets/banner.png" alt="Cybersecurity Banner" width="100%">
 </p>
 
-# Daniel Arconada
-### Cybersecurity | Blue Team | Threat Detection | Incident Response
+# Daniel Arconada  
+Pentesting | Web Security | Vulnerability Assessment | Security Reporting
 
-I’m not just focused on detecting attacks — I’m focused on understanding them.  
-Every log, every trace, every byte tells a story. My role is to interpret that story to strengthen digital defense.
+I’m not focused on breaking systems just to prove they can be broken.  
+I’m focused on understanding *why* they break — and how to explain it clearly.
 
----
-
-### Profile
-I am a cybersecurity professional in training, focused on **defensive security, detection engineering, incident response, and digital forensics**.  
-My goal is to understand adversary behavior in order to build smarter defensive strategies. For that reason, I complement my Blue Team work with **ethical pentesting and controlled red team exercises**.
-
-I work across self-hosted labs, virtualized environments, and digital platforms — analyzing network traffic, correlating events, and automating defensive tasks using Python and Bash.  
-My approach is based on continuous improvement, technical documentation, and hands-on practice.
+Every finding tells a story: about design decisions, trust boundaries, and risk.
+My role as a pentester is to uncover that story and translate it into **actionable security improvements**.
 
 ---
 
-### Areas of Focus
-**Blue Team:** detection, correlation, threat hunting, and system hardening.  
-**Digital Forensics:** memory analysis, log investigation, and artifact examination.  
-**OSINT & Threat Intelligence:** open-source data collection and contextual analysis.  
-**Ethical Pentesting (complementary):** understanding attack vectors to reinforce defensive posture.  
-**Automation:** Python scripting for defensive operations and configuration validation.
+## Profile
+
+I am a cybersecurity professional in training, focused on **web application penetration testing and security assessments**, with a strong emphasis on **methodology, validation and reporting quality**.
+
+My work follows industry-recognized practices such as **OWASP Top 10** and **PTES**, combining manual testing with tool-assisted analysis.  
+I place particular value on understanding attack vectors in depth, validating real impact, and documenting findings in a way that is useful for both technical teams and decision-makers.
+
+I work primarily in **controlled and fictional environments**, where I design labs, analyze applications, exploit vulnerabilities responsibly, and produce professional-style reports in **English and Spanish**.
 
 ---
 
-### Recent Projects
-**BlueLab — Event Analysis in Windows Environments**  
-> Laboratory focused on malware behavior and detection using Sysmon and Splunk.  
+## Areas of Focus
 
-**DVWA Report — Web Vulnerability Analysis**  
-> Ethical pentesting exercise in a controlled Docker environment. Includes risk assessment and mitigation recommendations.  
-
-**DNS Tunneling Lab — Network Evasion and Detection Study**  
-> Three-machine setup designed to simulate and detect DNS tunneling using Suricata and Bind9. Focused on alert tuning, traffic inspection, and detection rule refinement.  
-
-**OSINT Toolkit — Python Scripts for Digital Investigation**  
-> A collection of lightweight tools for data gathering, scraping, and enrichment from open sources.  
+- **Web Application Pentesting**: vulnerability discovery, exploitation and validation  
+- **Attack Surface Analysis**: recon, enumeration and logic flaw identification  
+- **Authentication & Access Control Testing**  
+- **Risk Analysis & CVSS Scoring**  
+- **Security Reporting**: clear structure, evidence-based findings and remediation guidance  
+- **Automation**: Python and Bash scripting to support recon and testing workflows  
 
 ---
 
-### Frequently Used Tools
-Wireshark · Splunk · Zeek · Suricata · Autopsy · Python · Bash · Git · Docker · Caido · Elastic Stack · Linux · Windows
+## Selected Work
+
+**Pentesting & Security Assessment Reports**  
+Ethical penetration testing exercises documenting real-world vulnerabilities, impact analysis and remediation strategies.  
+Focused on clarity, structure and professional delivery rather than tool output.
+
+**Web Application Labs (DVWA / WebGoat)**  
+Controlled environments used to practice OWASP Top 10 vulnerabilities, manual exploitation techniques and reporting aligned with consulting standards.
+
+**Custom Labs & Automation**  
+Self-hosted environments designed to test attack scenarios, validate findings and support repeatable testing through lightweight automation.
 
 ---
 
-### Work Philosophy
-I don’t believe in improvisation or in technological paranoia.  
-I believe in **methodical observation**, **data correlation**, **analytical discipline**, and the **ability to anticipate the adversary**.
+## Frequently Used Tools
 
-For me, cybersecurity is not just a set of tools —  
-it’s a way of thinking.
+Burp Suite · Nmap · Impacket · FFUF · SQLmap · Metasploit · Docker · Python · Bash · Git · Linux 
+
+---
+
+## Work Philosophy
+
+I don’t believe pentesting is about speed or noise.  
+I believe in **precision, verification and responsibility**.
+
+A good pentest doesn’t end with access —  
+it ends with a report that improves security.
+
+For me, offensive security is not about ego or shortcuts.  
+It’s about **methodology, discipline and trust**.
 
 ---
 
@@ -62,4 +73,4 @@ it’s a way of thinking.
 [LinkedIn](https://www.linkedin.com/in/d-arconada)  
 [Email](mailto:darconada@proton.me)  
 
-<sub>© Daniel Arconada — Blue Team & Digital Defense</sub>
+<sub>© Daniel Arconada</sub>
