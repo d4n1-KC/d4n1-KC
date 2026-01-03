@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/d4n1-KC/d4n1/blob/main/assets/banner.png" alt="Cybersecurity Banner" width="100%">
+  <img src="https://github.com/d4n1-KC/d4n1-KC/blob/main/assets/banner.png" alt="Cybersecurity Banner" width="100%">
 </p>
 
 # Daniel Arconada
