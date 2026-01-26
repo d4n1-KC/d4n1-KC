@@ -16,7 +16,7 @@
 
 ### About me
 
-I’m an offensive security enthusiast focused on **Web Pentesting** and **Red Team tradecraft**, currently preparing for my **first cybersecurity role**.  
+I’m an offensive security enthusiast focused on **Web Pentesting** and **Red Team tradecraft**. 
 I approach assessments with a structured, evidence-driven mindset: **attack surface analysis**, **recon & enumeration**, and **manual vulnerability validation**, aligned with **OWASP Top 10** and **PTES**. I also build small tools in **Python/Bash** to automate repeatable tasks and keep reporting clear, actionable, and honest.
 
 ---
@@ -33,7 +33,7 @@ I approach assessments with a structured, evidence-driven mindset: **attack surf
 
 ### Toolbox (daily drivers)
 
-**Burp Suite • Nmap • ffuf • Gobuster • Postman • Docker • Kali Linux • Git**
+**Burp Suite • Nmap • John • Ffuf • Hydra • Gobuster • Postman • Docker • Kali Linux • Git**
 
 ---
 
